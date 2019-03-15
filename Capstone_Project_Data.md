@@ -12,4 +12,4 @@ Foursqaure API data is easily available and which contains all the information r
 ### 1. Vennue Data
 Our Vennue data contains Name, address, latitude, longitude, City, Vennue category etc. information. Sample table structure of our data will looks like below image.
 
-![alt text](image1.jpg)
+![alt text](1.jpg)
