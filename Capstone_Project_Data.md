@@ -20,5 +20,10 @@ For specific Vennue or place we can see tips provided by other users.
 User profile contains basic user information with all the tips he/she has provided for places.
 
 From above raw data we can solve our problem. Our Application will group data of places by nearby places and find out the similar places and categories places with similarity features.
+We can see data with Nearby places like below image
 
+![alt text](https://github.com/shivprasadd8/coursera-capstone-project/blob/master/3.JPG)
 
+Also we can see similar places in map for users.
+
+![alt text](https://github.com/shivprasadd8/coursera-capstone-project/blob/master/2.JPG)
